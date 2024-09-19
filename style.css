@@ -64,3 +64,13 @@ h2 {
 .lead {
     font-size: 1.2rem;
 }
+
+.btn-forest-green {
+    background-color: #003314; /* Forest Green */
+    border-color: #001307; /* Darker green for the border */
+}
+
+.btn-forest-green:hover {
+    background-color: #003314; /* Darker on hover */
+    border-color:  #001307; /* Even darker for the border on hover */
+}
