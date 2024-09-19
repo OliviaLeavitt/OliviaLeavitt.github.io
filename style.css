@@ -13,7 +13,7 @@ body {
 }
 
 .navbar-brand, .nav-link {
-    color: white !important; /* White text for navbar items */
+    color: white !important; 
 }
 
 .nav-link:hover {
