@@ -74,4 +74,5 @@ h2 {
 .btn-forest-green:hover {
     background-color: #00180a; /* Darker on hover */
     border-color: #001307; /* Even darker for the border on hover */
+    color: white;
 }
